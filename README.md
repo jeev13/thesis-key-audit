@@ -1,6 +1,6 @@
 # How Investment Thesis handles your API key
 
-[Investment Thesis](https://jeev-thesis.duckdns.org) is a tool for
+[Investment Thesis](https://investmentthesis.app) is a tool for
 structuring, stress-testing and monitoring your own investment thinking.
 It runs on **your own Anthropic API key** — so before you paste a key into
 a website, you can read the exact code that touches it. That is what this
